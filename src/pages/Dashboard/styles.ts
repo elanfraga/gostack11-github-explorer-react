@@ -62,7 +62,6 @@ export const Error = styled.span`
   color: #c53030;
   margin-top: 8px;
 `;
-
 export const Repositories = styled.div`
   margin-top: 80px;
   max-width: 700px;
@@ -96,7 +95,7 @@ export const Repositories = styled.div`
     div {
       margin: 0 16px;
       flex: 1;
-      Error
+
         font-size: 20px;
         color: #3d3d4d;
       }
